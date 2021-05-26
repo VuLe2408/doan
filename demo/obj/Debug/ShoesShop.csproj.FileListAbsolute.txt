@@ -1,0 +1,97 @@
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\bin\Debug\demo.exe.config
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\bin\Debug\demo.exe
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\bin\Debug\demo.pdb
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\ShoesShop.csprojAssemblyReference.cache
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\demo.fLogin.resources
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\demo.Properties.Resources.resources
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\ShoesShop.csproj.GenerateResource.cache
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\ShoesShop.csproj.CoreCompileInputs.cache
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\demo.exe
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\demo.pdb
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\demo.fHomePages.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\ShoesShop.csprojAssemblyReference.cache
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fLogin.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.Properties.Resources.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\ShoesShop.csproj.GenerateResource.cache
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\ShoesShop.csproj.CoreCompileInputs.cache
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.exe
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.pdb
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\bin\Debug\demo.exe.config
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\bin\Debug\demo.exe
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\bin\Debug\demo.pdb
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fRegister.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fStaff.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fInfoAccount.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fBill.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fBillDetail.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fCustomer.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fProductDetail.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fProvider.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\bin\Debug\Interop.WMPLib.dll
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\bin\Debug\AxInterop.WMPLib.dll
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\Interop.WMPLib.dll
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\AxInterop.WMPLib.dll
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\ShoesShop.csproj.ResolveComReference.cache
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fLoading.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fProduct.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fProductType.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fHomePage.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fColor.resources
+D:\CKC\STUDY\Lập Trình Windows\ShoesShop\demo\obj\Debug\demo.fSize.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\bin\Debug\demo.exe.config
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\bin\Debug\demo.exe
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\bin\Debug\demo.pdb
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\ShoesShop.csprojAssemblyReference.cache
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\ShoesShop.csproj.ResolveComReference.cache
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.fColor.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.fCustomer.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.fProduct.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.fProductType.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.fHomePage.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.fInfoAccount.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.fLoading.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.fLogin.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.fRegister.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.fSize.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.fStaff.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\ShoesShop.csproj.GenerateResource.cache
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\ShoesShop.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.exe
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.pdb
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\bin\Debug\Guna.UI2.dll
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\ShoesShop.csproj.CopyComplete
+C:\Users\Bill\Desktop\Shoesshop1\ShoesShop\demo\obj\Debug\demo.fBill.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\bin\Debug\demo.exe.config
+D:\bai tap\ltwin\ShoesShop-master\demo\bin\Debug\demo.exe
+D:\bai tap\ltwin\ShoesShop-master\demo\bin\Debug\demo.pdb
+D:\bai tap\ltwin\ShoesShop-master\demo\bin\Debug\Guna.UI2.dll
+D:\bai tap\ltwin\ShoesShop-master\demo\bin\Debug\Interop.WMPLib.dll
+D:\bai tap\ltwin\ShoesShop-master\demo\bin\Debug\AxInterop.WMPLib.dll
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\ShoesShop.csprojAssemblyReference.cache
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\Interop.WMPLib.dll
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\AxInterop.WMPLib.dll
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\ShoesShop.csproj.ResolveComReference.cache
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fBill.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fColor.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fCustomer.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fProduct.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fProductType.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fHomePage.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fInfoAccount.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fLoading.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fLogin.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fRegister.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fSize.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fStaff.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.Properties.Resources.resources
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\ShoesShop.csproj.GenerateResource.cache
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\ShoesShop.csproj.CoreCompileInputs.cache
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\ShoesShop.csproj.CopyComplete
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.exe
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.pdb
+D:\bai tap\ltwin\ShoesShop-master\demo\obj\Debug\demo.fBillSearch.resources

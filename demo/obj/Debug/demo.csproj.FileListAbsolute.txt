@@ -1,0 +1,10 @@
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\demo.csprojAssemblyReference.cache
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\demo.Form1.resources
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\demo.Properties.Resources.resources
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\bin\Debug\demo.exe.config
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\bin\Debug\demo.exe
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\bin\Debug\demo.pdb
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\demo.exe
+D:\CKC\STUDY\Lập Trình Windows\demo\demo\obj\Debug\demo.pdb
